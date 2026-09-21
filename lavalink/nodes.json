@@ -1,8 +1,8 @@
 [
   {
-    "host": "lavalinkv4.serenetia.com",
+    "host": "lavalink-v4.triniumhost.com",
     "port": 443,
-    "password": "https://seretia.link/discord",
+    "password": "free",
     "secure": true,
     "name": "Serenetia"
   },
