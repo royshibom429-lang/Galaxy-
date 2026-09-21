@@ -24,7 +24,7 @@ export const GLOBAL_BLOCKED_SUBCOMMAND_GROUPS = new Set([
 
 /** Per-command subcommands that stay slash-only (beyond the global block list). */
 export const COMMAND_BLOCKED_SUBCOMMANDS = {
-  s: new Set([
+  start: new Set([
     'shuffle',
     'loop',
     'seek',
